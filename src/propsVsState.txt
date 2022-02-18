@@ -1,0 +1,3 @@
+1. Props get passed to the component while state is managed within the components
+2.props received in function parameter while state variabl declare in the function body
+3.Props are immutable. State can be changed(mutable)
